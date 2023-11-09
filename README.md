@@ -15,3 +15,11 @@
   <a href = "mailto:gubuenoba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-bueno-120334249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<br>
+<br>
+
+<div>
+  <img align=top padding=50 src="https://github-readme-stats.vercel.app/api?username=GutoSwan&show_icons=true&theme=tokyonight#gh-dark-mode-only"/>  
+  <span>  ____ </span>
+  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutoSwan&hide_progress=true&theme=tokyonight&size_weight=1&count_weight=1"/>
+<div>
